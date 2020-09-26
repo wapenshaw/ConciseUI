@@ -9,11 +9,11 @@ CuiSettings = {
     SHOW_CITYS        = {field = "ShowCitys",         default = true},
     -- map pins
     SHOW_DISTRICTS    = {field = "ShowDistricts",     default = true},
-    SHOW_WONDERS      = {field = "ShowWonders",       default = false},
+    SHOW_WONDERS      = {field = "ShowWonders",       default = true},
     AUTO_NAMING       = {field = "AutoNaming",        default = true},
     -- world tracker
-    WT_GOSSIP_LOG     = {field = "TrackerGossipLog",  default = false},
-    WT_COMBAT_LOG     = {field = "TrackerCombatLog",  default = false},
+    WT_GOSSIP_LOG     = {field = "TrackerGossipLog",  default = true},
+    WT_COMBAT_LOG     = {field = "TrackerCombatLog",  default = true},
     DF_GOSSIP_LOG     = {field = "DefaultGossipLog",  default = false},
     DF_COMBAT_LOG     = {field = "DefaultCombatLog",  default = false},
     GOSSIP_LOG_STATE  = {field = "GossipLogState",    default = 1},
