@@ -149,8 +149,6 @@
       <File>modules/notes/additions/cui_note_screen.xml</File>
       <File>modules/popup_and_remind/additions/cui_remind_panel.lua</File>
       <File>modules/popup_and_remind/additions/cui_remind_panel.xml</File>
-      <File>modules/screenshot/additions/cui_screenshot.lua</File>
-      <File>modules/screenshot/additions/cui_screenshot.xml</File>
       <File>modules/spy_info/additions/cui_spy_info.lua</File>
       <File>modules/spy_info/additions/cui_spy_info.xml</File>
       <File>modules/unit_list/additions/cui_unitlist_button.lua</File>
@@ -178,7 +176,6 @@
       <File>modules/notes/additions/cui_note_button.xml</File>
       <File>modules/notes/additions/cui_note_screen.xml</File>
       <File>modules/popup_and_remind/additions/cui_remind_panel.xml</File>
-      <File>modules/screenshot/additions/cui_screenshot.xml</File>
       <File>modules/spy_info/additions/cui_spy_info.xml</File>
       <File>modules/unit_list/additions/cui_unitlist_button.xml</File>
       <File>modules/unit_list/additions/cui_unitlist_screen.xml</File>
@@ -270,8 +267,6 @@
     <File>modules/production_panel/support/cui_production_data.lua</File>
     <File>modules/production_panel/support/cui_production_support.lua</File>
     <File>modules/production_panel/support/cui_production_ui.lua</File>
-    <File>modules/screenshot/additions/cui_screenshot.lua</File>
-    <File>modules/screenshot/additions/cui_screenshot.xml</File>
     <File>modules/spy_info/additions/cui_spy_info.lua</File>
     <File>modules/spy_info/additions/cui_spy_info.xml</File>
     <File>modules/trade_panel/base/tradeoriginchooser.lua</File>
