@@ -75,8 +75,6 @@
       <Properties>
         <LoadOrder>12</LoadOrder>
       </Properties>
-      <File>modules/city_states/base/citystates.lua</File>
-      <File>modules/city_states/base/citystates.xml</File>
       <File>modules/espionage_panel/base/espionagechooser.lua</File>
       <File>modules/espionage_panel/base/espionagechooser.xml</File>
       <File>modules/espionage_panel/base/espionagesupport.lua</File>
@@ -101,7 +99,6 @@
       <Properties>
         <LoadOrder>13</LoadOrder>
       </Properties>
-      <File>modules/city_states/expansion1/citystates.xml</File>
       <File>modules/espionage_panel/expansion1/espionagechooser_expansion1.lua</File>
       <File>modules/leader_icons/expansion1/diplomacyribbon_expansion1.lua</File>
       <File>modules/popup_and_remind/expansion1/historicmoments.lua</File>
@@ -198,9 +195,6 @@
     <File>localization/cui_ru_ru.sql</File>
     <File>localization/cui_zh_cn.sql</File>
     <File>localization/cui_zh_hk.sql</File>
-    <File>modules/city_states/base/citystates.lua</File>
-    <File>modules/city_states/base/citystates.xml</File>
-    <File>modules/city_states/expansion1/citystates.xml</File>
     <File>modules/espionage_panel/base/espionagechooser.lua</File>
     <File>modules/espionage_panel/base/espionagechooser.xml</File>
     <File>modules/espionage_panel/base/espionagesupport.lua</File>
