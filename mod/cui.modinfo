@@ -66,7 +66,6 @@
       <Properties>
         <LoadOrder>11</LoadOrder>
       </Properties>
-      <File>modules/deal_panel/support/cui_deal_support.lua</File>
       <File>modules/leader_icons/support/cui_leader_icon_support.lua</File>
       <File>modules/popup_and_remind/support/cui_tech_civic_support.lua</File>
       <File>modules/production_panel/support/cui_production_data.lua</File>
@@ -84,8 +83,6 @@
       <File>modules/city_panel/base/citypanel.xml</File>
       <File>modules/city_states/base/citystates.lua</File>
       <File>modules/city_states/base/citystates.xml</File>
-      <File>modules/deal_panel/base/diplomacydealview.lua</File>
-      <File>modules/deal_panel/base/diplomacydealview.xml</File>
       <File>modules/espionage_panel/base/espionagechooser.lua</File>
       <File>modules/espionage_panel/base/espionagechooser.xml</File>
       <File>modules/espionage_panel/base/espionagesupport.lua</File>
@@ -131,8 +128,6 @@
       <Properties>
         <LoadOrder>14</LoadOrder>
       </Properties>
-      <File>modules/deal_panel/expansion2/diplomacydealview.lua</File>
-      <File>modules/deal_panel/expansion2/diplomacydealview_expansion2.lua</File>
       <File>modules/espionage_panel/expansion2/espionagechooser.xml</File>
       <File>modules/espionage_panel/expansion2/espionagechooser_expansion1.lua</File>
       <File>modules/great_work/expansion2/greatworksoverview_expansion2.lua</File>
@@ -230,11 +225,6 @@
     <File>modules/city_states/base/citystates.lua</File>
     <File>modules/city_states/base/citystates.xml</File>
     <File>modules/city_states/expansion1/citystates.xml</File>
-    <File>modules/deal_panel/base/diplomacydealview.lua</File>
-    <File>modules/deal_panel/base/diplomacydealview.xml</File>
-    <File>modules/deal_panel/expansion2/diplomacydealview.lua</File>
-    <File>modules/deal_panel/expansion2/diplomacydealview_expansion2.lua</File>
-    <File>modules/deal_panel/support/cui_deal_support.lua</File>
     <File>modules/espionage_panel/base/espionagechooser.lua</File>
     <File>modules/espionage_panel/base/espionagechooser.xml</File>
     <File>modules/espionage_panel/base/espionagesupport.lua</File>
