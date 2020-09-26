@@ -14,7 +14,7 @@ PATH_MOD     = Path(PATH_PROJECT, 'mod')
 
 # ! This is the path on my computer, if you want to try this script,
 #   please change it to where you installed the steam.
-PATH_STEAM = Path(r'e:/Steam/steamapps/workshop/content/289070/1671978687')
+PATH_STEAM = Path(r"E:\\Documents\\My Games\\Sid Meier's Civilization VI\\Mods\\ConciseUI")
 
 
 def copy_():
