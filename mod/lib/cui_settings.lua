@@ -31,8 +31,8 @@ CuiSettings = {
     -- popup manager
     POPUP_RESEARCH    = {field = "PopupResearch",     default = true},
     AUDIO_RESEARCH    = {field = "PlayResearchAudio", default = true},
-    POPUP_HISTORIC    = {field = "PopupHistoric",     default = false},
-    POPUP_CREATWORK   = {field = "PopupGreatWork",    default = false},
+    POPUP_HISTORIC    = {field = "PopupHistoric",     default = true},
+    POPUP_CREATWORK   = {field = "PopupGreatWork",    default = true},
     POPUP_RELIC       = {field = "PopupRelic",        default = true},
     -- remind
     REMIND_TECH       = {field = "RemindTech",        default = true},
